@@ -1,0 +1,14 @@
+Vulnerability / CVE Scanner Report
+
+Scanned Services:
+- nginx 1.18.0 → CVEs: CVE-2021-23017 (High), CVE-2020-35464 (Medium)
+- openssl 1.1.1 → CVEs: CVE-2021-3450 (High)
+- apache 2.4.46 → No known CVEs
+
+Explanation:
+This scan is simulated for educational purposes. No real servers were scanned. 
+The output demonstrates how services are checked against CVE databases and potential severity levels.
+
+Responsible Disclosure Notes:
+- Only simulate scans on test systems
+- Always get permission before scanning live environments
